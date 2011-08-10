@@ -3,7 +3,7 @@ db/*.sqlite3
 log/*.log
 tmp/
 doc/
-*.swf
+*.swp
 *~
 .project
 .DS_Store
